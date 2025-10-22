@@ -24,8 +24,8 @@ You've seen many, but a few that stand out:
 - Cannot populate tracking number (even though you triple checked the setup and docs)
 - Shipment routing to wrong carrier (I just fixed it last night!)
 
-Because these errors are holding up shipping oeprations, customers are complaning and you are at your wits end.
-The application works, but it is hard to maintain. You've tried getting your teammates to learn it to try and delegate, but they don't want to touch it with a 10-foot pole.
+Because these errors are holding up shipping operations, customers are complaining and you are at your wits end.
+The application works, but it is hard to maintain. You've tried encouraging your teammates to learn it as well, but they don't want to touch it with a 10-foot pole.
 
 To bring this situation back to reality... this is an issue many people and organizations experience when legacy systems are baked into their infrastructure. 
 
