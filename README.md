@@ -16,7 +16,7 @@ It's not the fanciest or equipped with the latest features, but it gets the job 
 Let's say you work with different carriers to ship your products worldwide. In the shipping world, someone pays for goods to move. Like when you go the UPS or USPS store and pay to send your aunt a shoe she left at your gathering last weekend.
 Let's say in your small furniture business world, you pay for for the shipping and don't pass the fee onto your customer.
 
-When you first started your furniture business, your little application was able to keep up with customer demand with ease.
+When you first started your furniture business, your application was able to keep up with customer demand with ease.
 But ever since you went viral on social media and sales began picking up, you have been running into all sorts of errors.
 
 You've seen many, but a few that stand out:
@@ -31,7 +31,7 @@ To bring this situation back to reality... this is an issue many people and orga
 
 ## Solutions, Methods, Tools
 
-So, what do we do about it?
+...so what do we do about it?
 
 Legacy systems are not documented extensively with detail available via the click of a button or a simple Google search.
 
