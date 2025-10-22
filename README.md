@@ -33,24 +33,22 @@ To bring this situation back to reality... this is an issue many people and orga
 
 So, what do we do about it?
 
-Legacy systems are not documented extensively with detail available with the click of a button or a simple Google search.
+Legacy systems are not documented extensively with detail available via the click of a button or a simple Google search.
 
 But there are a variety of methods to tackle this problem.
 
 1. Create code that will handle the manual entries for you
    - Automate the process, so the computer handles it. Operator will be focused on debugging, troubleshooting, and aligning code with screen logic.
    - Use whichever language you are most comfortable with. Or learn one you are the least apprehensive toward.
-   - Start somewhere. Be okay with failing. Just remember to get up.
+   - Start somewhere. Be okay with failing. Just remember to keep going.
 
 2. Automate any data cleaning steps prior to the data load process
+   - You can start at spreadsheets or use software from the beginning.
    - Use Excel formulas to your advantage.
 
-3. Prioritize and perserverence
-   - Sort by what to tackle first.
+3. Prioritize and perservere
+   - Sort by what process to tackle first.
    - Automate the manual processes that take the most time.
    - Consider business significance / impact.
-
-
-
 
 
