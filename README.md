@@ -14,10 +14,10 @@ Let's say you run a small furniture business. You founded the business in 1985 a
 It's not the fanciest or equipped with the latest features, but it gets the job done. Plus, you don't have to pay a subscription every month to keep it running.
 
 In the shipping world, someone pays for goods to move. Like when you go to the UPS or USPS store and pay to send your aunt a shoe she left at your gathering last weekend.
-Let's say you work with different carriers to ship your products worldwide. In your small business furniture world, you pay for the shipping and don't pass the fee onto your customers.
+Let's say you work with different carriers to ship your products worldwide. In your furniture business world, you pay for the shipping and don't pass the fee onto your customers.
 
 When you first started your furniture business, your application was able to keep up with customer demand with ease.
-But ever since you went viral on social media and sales began picking up, you have been running into all sorts of errors.
+But ever since you went viral on social media and sales began picking up, your application has been running into all sorts of errors.
 
 You've seen many, but a few that stand out:
 - Carrier rate not loaded (even though you just loaded 500)
