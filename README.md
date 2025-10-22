@@ -1,4 +1,4 @@
-# Automating legacy system maintenace and workflows
+# Automating legacy system maintenance and workflows
 
 ## Background
 It is no secret that legacy systems are seen as critical and brittle.
