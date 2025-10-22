@@ -27,7 +27,7 @@ You've seen many, but a few that stand out:
 Because these errors are holding up shipping oeprations, customers are complaning and you are at your wits end.
 The application works, but it is hard to maintain. You've tried getting your teammates to learn it to try and delegate, but they don't want to touch it with a 10-foot pole.
 
-To bring this situation back to reality... this is an issue many people and organizations experience when legacy systems are baked into their business. 
+To bring this situation back to reality... this is an issue many people and organizations experience when legacy systems are baked into their infrastructure. 
 
 ## Solutions, Methods, Tools
 
@@ -40,7 +40,7 @@ But there are a variety of methods to tackle this problem.
 1. Create code that will handle the manual entries for you
    - Automate the process, so the computer handles it. Operator will be focused on debugging, troubleshooting, and aligning code with screen logic.
    - Use whichever language you are most comfortable with. Or learn one you are the least apprehensive toward.
-   - Start somewhere. Be okay with failing. Just remember to get up.r
+   - Start somewhere. Be okay with failing. Just remember to get up.
 
 2. Automate any data cleaning steps prior to the data load process
    - Use Excel formulas to your advantage.
