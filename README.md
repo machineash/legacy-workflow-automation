@@ -59,5 +59,4 @@ But there are a variety of methods to tackle this problem.
 5. Appreciate the system, flow, and connectivity
    - Legacy is a piece of history that can be interacted with and observed. 
    - Learn the customer facing side and what's under the hood.
-   - Understand the reality (maintenance vs application development)
-
+   - Understand the reality (maintenance vs application development).
