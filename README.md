@@ -51,4 +51,13 @@ But there are a variety of methods to tackle this problem.
    - Automate the manual processes that take the most time.
    - Consider business significance / impact.
 
+4. The Test Environment is your friend
+   - Don't be afriad to dive deep in Test.
+   - Stretch the system with edge cases (maybe check with the engineering team first).
+   - Brainstorm scenarios and simulate them.
+
+5. Appreciate the system, flow, and connectivity
+   - Legacy is a piece of history that can be interacted with and observed. 
+   - Learn the customer facing side and what's under the hood.
+   - Understand the reality (maintenance vs application development)
 
