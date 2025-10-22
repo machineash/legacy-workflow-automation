@@ -33,7 +33,7 @@ To bring this situation back to reality... this is an issue many people and orga
 
 So, what do we do about it?
 
-Legacy sysytems are not documented extensively with detail available with the click of a button or a simple Google search.
+Legacy systems are not documented extensively with detail available with the click of a button or a simple Google search.
 
 But there are a variety of methods to tackle this problem.
 
