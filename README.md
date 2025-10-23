@@ -10,8 +10,8 @@ These systems process millions of transactions a day to support global industrie
 Enter: Python.
 
 ## Imagine this
-Let's say you run a small furniture business. You founded the business in 1985 and have been running the shop for 40 years. You have a small application that you use to manage, process, and close orders.
-It's not the fanciest or equipped with the latest features, but it gets the job done. Plus, you don't have to pay a subscription every month to keep it running.
+Let's say you run a small furniture business. You founded the business in 1985 and have been running the shop for 40 years. You have an application that you use to manage, process, and close orders.
+It's not the fanciest or equipped with the latest features, but it can talk to other apps and it gets the job done. Plus, you don't have to pay a subscription every month to keep it running.
 
 In the shipping world, someone pays for goods to move. Like when you go to the UPS or USPS store and pay to send your aunt a shoe she left at your gathering last weekend.
 Let's say you work with different carriers to ship your products worldwide. In your furniture business world, you pay for the shipping and don't pass the fee onto your customers.
