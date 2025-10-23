@@ -52,7 +52,7 @@ But there are a variety of methods to tackle this problem.
    - Consider business significance / impact.
 
 4. The Test Environment is your friend
-   - Don't be afriad to dive deep in Test.
+   - Don't be afraid to dive deep in Test.
    - Stretch the system with edge cases (maybe check with the engineering team first).
    - Brainstorm scenarios and simulate them.
 
